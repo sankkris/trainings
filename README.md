@@ -1,0 +1,2 @@
+# trainings
+ devops_training
